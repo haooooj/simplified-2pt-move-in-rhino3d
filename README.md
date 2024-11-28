@@ -19,9 +19,7 @@ When using Rhino's standard Move command on heavy models, you might notice a sig
 
 ### Load the Script in Rhino
 
-**Method 1**: Drag and drop the script file into the Rhino viewport.
-
-**Method 2**:
+**Method 1**:
 
 1. Type `_RunPythonScript` in the command line.
 2. Browse to the location where you saved the script and select it.
