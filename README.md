@@ -24,14 +24,7 @@ When using Rhino's standard Move command on heavy models, you might notice a sig
 1. Type `_RunPythonScript` in the command line.
 2. Browse to the location where you saved the script and select it.
 
-### Using the Command
-
-1. **Select** the objects you want to move.
-2. When prompted, **click** to specify the **Base Point**.
-3. **Click** again to specify the **Target Point**.
-4. The selected objects will move from the base point to the target point.
-
-### Creating a Button or Alias for Easy Access (Optional)
+### Method 1 Creating a Button or Alias for Easy Access (Optional)
 
 If you plan to use this script frequently, you can create a button or an alias for quick access.
 
@@ -61,4 +54,12 @@ If you plan to use this script frequently, you can create a button or an alias f
      Again, replace `FullPathToYourScript` with the actual path.
 
 3. **Use the Alias**: Type the alias (e.g., `m2`) into the command line and press **Enter** to run the script.
+
+
+### Using the Command
+
+1. **Select** the objects you want to move.
+2. When prompted, **click** to specify the **Base Point**.
+3. **Click** again to specify the **Target Point**.
+4. The selected objects will move from the base point to the target point.
 
