@@ -24,7 +24,7 @@ When using Rhino's standard Move command on heavy models, you might notice a sig
 1. Type `_RunPythonScript` in the command line.
 2. Browse to the location where you saved the script and select it.
 
-### Method 1 Creating a Button or Alias for Easy Access (Optional)
+### Method 2 Creating a Button or Alias for Easy Access (Optional)
 
 If you plan to use this script frequently, you can create a button or an alias for quick access.
 
